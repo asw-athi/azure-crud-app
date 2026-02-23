@@ -2,3 +2,7 @@ venv/
 __pycache__/
 .env
 *.pyc
+Flask
+psycopg2-binary
+gunicorn
+python-dotenv
